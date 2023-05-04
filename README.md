@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 42 Bytes Used in GitHub's Storage 
+> 📦 43 Bytes Used in GitHub's Storage 
  > 
 > 🏆 20 Contributions in the Year 2023
  > 
@@ -42,16 +42,23 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     3 hrs 49 mins       ██████████████████████░░░   87.66 % 
+YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           4 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+wandrer                  4 hrs 13 mins       ████████████████████████░   96.62 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+SeedSurfWeb              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -67,5 +74,5 @@ Dart                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/sairam030/sairam030/main/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2023 18:38:34 UTC
+ Last Updated on 04/05/2023 18:38:18 UTC
 <!--END_SECTION:waka-->
