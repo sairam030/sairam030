@@ -42,23 +42,16 @@ Sunday                   9 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     3 hrs 52 mins       █████████████████████████   99.79 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-ActionScript 3           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           3 hrs 52 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-briskyy                  2 hrs 47 mins       ██████████████████░░░░░░░   71.77 % 
-admin_dashboard          56 mins             ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-briskyy_agency_dashboard 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -77,5 +70,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sairam030/sairam030/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2023 18:39:04 UTC
+ Last Updated on 07/09/2023 18:39:03 UTC
 <!--END_SECTION:waka-->
