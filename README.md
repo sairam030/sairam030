@@ -9,7 +9,7 @@
  > 
 > 🏆 93 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+
  > 
 > 📜 15 Public Repositories 
  > 
