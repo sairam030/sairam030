@@ -42,20 +42,16 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████░░░░░░░░   66.89 % 
-Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-SQL                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Recommendation-System-Had1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,5 +71,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sairam030/sairam030/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2023 18:40:19 UTC
+ Last Updated on 17/11/2023 18:40:16 UTC
 <!--END_SECTION:waka-->
