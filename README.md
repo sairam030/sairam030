@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,16 +42,24 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 52 mins       █████████████████████░░░░   83.48 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+devConnector             3 hrs 14 mins       █████████████████░░░░░░░░   69.98 % 
+ln-lender                55 mins             █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+chat-app-react-nodejs-mas10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+mern                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Recommendation-System-Had6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,5 +79,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sairam030/sairam030/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2023 18:41:08 UTC
+ Last Updated on 22/11/2023 18:39:19 UTC
 <!--END_SECTION:waka-->
