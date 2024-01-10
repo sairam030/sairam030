@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,16 +42,20 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Groovy                   5 mins              ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+Java Properties          4 mins              ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+Markdown                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Gradle                   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Cryptography_Application 18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,5 +75,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sairam030/sairam030/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2024 18:39:03 UTC
+ Last Updated on 10/01/2024 18:40:14 UTC
 <!--END_SECTION:waka-->
