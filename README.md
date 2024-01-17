@@ -42,20 +42,16 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Groovy                   5 mins              ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-Java Properties          4 mins              ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-Markdown                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Gradle                   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Cryptography_Application 18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,5 +71,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sairam030/sairam030/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2024 18:40:02 UTC
+ Last Updated on 17/01/2024 18:40:26 UTC
 <!--END_SECTION:waka-->
