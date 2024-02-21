@@ -7,8 +7,6 @@
 
 > 📦 128.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -42,20 +40,16 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Properties               1 min               █████████████████████░░░░   83.93 % 
-GitIgnore file           0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Cryptography_Application 1 min               █████████████████████░░░░   84.01 % 
-Unknown Project          0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-hi_focks                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,5 +69,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sairam030/sairam030/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2024 18:40:24 UTC
+ Last Updated on 21/02/2024 18:39:02 UTC
 <!--END_SECTION:waka-->
