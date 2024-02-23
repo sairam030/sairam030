@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,16 +42,25 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   37.72 % 
+Dart                     1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+XML                      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+PHP                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Gradle                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           4 hrs 29 mins       ███████████████████████░░   90.11 % 
+VS Code                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SmartHospital            2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   44.07 % 
+begin                    1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   31.43 % 
+saairama                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+smart_hospital_android_ap16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,5 +80,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sairam030/sairam030/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2024 18:38:59 UTC
+ Last Updated on 23/02/2024 18:39:01 UTC
 <!--END_SECTION:waka-->
