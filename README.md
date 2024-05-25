@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 129.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,11 +57,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
-Dart                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   32.14 % 
+Dart                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+CSS                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
@@ -69,5 +71,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sairam030/sairam030/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2024 18:40:17 UTC
+ Last Updated on 25/05/2024 18:39:13 UTC
 <!--END_SECTION:waka-->
