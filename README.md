@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
@@ -40,16 +40,17 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   21 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+saairama                 11 mins             █████████████░░░░░░░░░░░░   52.71 % 
+fitness monitoring system10 mins             ████████████░░░░░░░░░░░░░   47.29 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -69,5 +70,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sairam030/sairam030/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2024 18:40:56 UTC
+ Last Updated on 29/05/2024 18:39:53 UTC
 <!--END_SECTION:waka-->
