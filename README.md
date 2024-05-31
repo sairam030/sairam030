@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
@@ -40,17 +40,18 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   21 mins             █████████████████████████   100.00 % 
+Python                   24 mins             ████████████████░░░░░░░░░   63.90 % 
+HTML                     13 mins             █████████░░░░░░░░░░░░░░░░   36.10 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-saairama                 11 mins             █████████████░░░░░░░░░░░░   52.71 % 
-fitness monitoring system10 mins             ████████████░░░░░░░░░░░░░   47.29 % 
+saairama                 27 mins             ██████████████████░░░░░░░   72.89 % 
+fitness monitoring system10 mins             ███████░░░░░░░░░░░░░░░░░░   27.11 % 
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -70,5 +71,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sairam030/sairam030/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2024 18:41:30 UTC
+ Last Updated on 31/05/2024 18:40:18 UTC
 <!--END_SECTION:waka-->
