@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 209.5 kB Used in GitHub's Storage 
- > 
-> 🏆 35 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,5 +69,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sairam030/sairam030/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2025 18:57:09 UTC
+ Last Updated on 01/08/2025 18:56:15 UTC
 <!--END_SECTION:waka-->
